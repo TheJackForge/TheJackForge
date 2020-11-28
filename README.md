@@ -3,6 +3,8 @@
 <!--
 **TheJackForge/TheJackForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hello, my name is Jack and I an a developer from Canada. Right now, my main focus is becoming better at JavaScript in order to find a junior developer position.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
