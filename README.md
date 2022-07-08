@@ -1,4 +1,4 @@
-### TheJackForge - Creating change through code and positivity
+### TheJackForge - Building a bunch of junk
 
 
 ### Current Goals
