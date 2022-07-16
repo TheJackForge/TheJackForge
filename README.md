@@ -1,4 +1,4 @@
-### TheJackForge - Building a bunch of junk
+### TheJackForge
 
 
 ### Current Goals
